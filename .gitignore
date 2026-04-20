@@ -1,0 +1,11 @@
+HELP.md
+
+### GiGaIDE ###
+.gigaide/
+.idea/
+.venv/
+__pycache__/
+*.log
+
+### VS Code ###
+.vscode/

@@ -1,0 +1,47 @@
+[
+  {
+    "link": "https://habr.com/ru/articles//ru/articles/1025398/",
+    "title": "Первый серьёзный проект на Python: Manga-Day — асинхронный парсер манги и путь к микросервисам",
+    "date": "2026-20-04"
+  },
+  {
+    "link": "https://habr.com/ru/articles//ru/articles/1025380/",
+    "title": "LOTIS: Новая парадигма WEB-разработки для бизнес-приложений",
+    "date": "2026-20-04"
+  },
+  {
+    "link": "https://habr.com/ru/articles//ru/articles/1025306/",
+    "title": "Как я изобрёл велосипед: создание языка программирования с нуля ради одной игры и Telegram-бота",
+    "date": "2026-19-04"
+  },
+  {
+    "link": "https://habr.com/ru/articles//ru/articles/1025302/",
+    "title": "Домашний Netflix за вечер: Transmission + Jellyfin + Telegram-бот на Docker с поддержкой NAS",
+    "date": "2026-19-04"
+  },
+  {
+    "link": "https://habr.com/ru/articles//ru/articles/1025286/",
+    "title": "Опыт разработки picows, самой быстрой библиотеки веб-сокетов для asyncio",
+    "date": "2026-19-04"
+  },
+  {
+    "link": "https://habr.com/ru/articles//ru/companies/studyai/articles/1025242/",
+    "title": "Мужская фотосессия с помощью нейросети: гайд, лучшие ИИ и 38 готовых промптов для идеальных фото",
+    "date": "2026-19-04"
+  },
+  {
+    "link": "https://habr.com/ru/articles//ru/companies/tehrevizor/articles/1025224/",
+    "title": "Замена лица на фото: как сделать бесплатно с помощью ИИ — обзор простых нейронок",
+    "date": "2026-19-04"
+  },
+  {
+    "link": "https://habr.com/ru/articles//ru/articles/1025150/",
+    "title": "Как техлид без навыка кодинга руками собрал Telegram-систему закупок с OCR, модерацией и безопасным деплоем",
+    "date": "2026-19-04"
+  },
+  {
+    "link": "https://habr.com/ru/articles//ru/articles/1025146/",
+    "title": "Как контролировать токены: поиск ошибок, версионирование и графы в едином дашборде",
+    "date": "2026-19-04"
+  }
+]
