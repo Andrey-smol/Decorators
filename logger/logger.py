@@ -14,7 +14,7 @@ class DictLog:
 
     def __str__(self):
         dt = self.date_time.strftime("%Y-%m-%d %H:%M:%S")
-        return f'[{dt}] summator: {self.name} - args = {self.args}, {self.kwargs} - функция возвращает {self.result} \n'
+        return f'[{dt}] функция: {self.name} - args = {self.args}, {self.kwargs} - функция возвращает {self.result} \n'
 
 
 def write_file(path, log: DictLog):

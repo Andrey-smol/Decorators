@@ -5,4 +5,4 @@ from tasks.task3 import main_bs4
 if __name__ == "__main__":
     test_1()
     test_2()
-    main_bs4()
+    # main_bs4()
